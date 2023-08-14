@@ -1,1 +1,15 @@
+# Project 1: Indeed Data Analysis
 
+## Overview
+
+In this portfolio entry, I showcase a recent project where I utilized data from Indeed to create insightful visualizations displaying the prevalence of specific skills and certifications across various job roles.
+
+## Contents
+
+- [Code](./code)
+  - [Code used to clean] (./code/cleaned_file_code.py)
+  - [Fuzzywuzzy matching code] (./code/fuzzywuzzy_indeed_matching.py)
+- [Data](./data)
+  - [Cleaned Data](./data/cleaned_data.csv)
+  - [Final Certifications and Skills](./data/final_certifications_skills.csv)
+- [Images](./images/dashboard.png)
