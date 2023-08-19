@@ -6,9 +6,13 @@ This project involves the analysis of trending video games from 1980 to 2023, fo
 
 ## Contents
 
-- **Code**
-- **Data**
-- **Images**
+- [Code](./code)
+  -[Cleaning Code](./code/gamesovertime_code.py)
+- [Data](./data)
+  -[Cleaned Data] (./data/cleaned_gamesovertime.csv)
+  -[Base data] (./data/gamesovertime_base.csv)
+- [Dashboard](./dashboard)
+  -[Dashboard](./dashboard/gamesovertime.pdf)
 
 ## Project Description
 
