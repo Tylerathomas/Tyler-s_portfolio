@@ -3,6 +3,24 @@
 ## Objective
 Derive actionable business insights from a sample sales dataset sourced from [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
 
+## Contents
+
+- [Code](./code)
+  - [Cleaning Code](./code/sales_data_clean_code.py)
+  - [Transforming Code](./code/sales_data_clean_transformed_code.py)
+  - [Analaysis Code](./code/salesanalysiscode.ipynb)
+- [Data](./data)
+  - [Clean Data](./data/sales_data_clean.csv)
+  - [Transformed Data](./data/sales_data_clean_transformed.csv)
+  - [Original Kaggle Data](./data/sales_data_sample.csv)
+- [Images](./images)
+  - [Query1](./images/query1.png)
+  - [Query2](./images/query2.png)
+  - [Query3](./images/query3.png)
+  - [Query4](./images/query4.png)
+  - [Query5](./images/query5.png)
+  - [Query6](./images/query6.png)
+
 ## Data Preparation
 - The dataset required initial preprocessing to ensure accuracy and relevance.
 - Unnecessary fields were pruned to streamline the data, and specific columns like prices were formatted to reflect the dollar currency.
