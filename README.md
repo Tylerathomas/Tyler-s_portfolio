@@ -23,7 +23,7 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 ### 1. Indeed Job Market Analysis
 
-![Indeed Analysis Dashboard](./dashboard/Indeed_Analysis_Dashboard.png)
+![Indeed Analysis Dashboard](./Project%201/dashboard/Indeed_Analysis_Dashboard.png)
 
 **Description:** An in-depth analysis of job listings from Indeed, aiming to understand the demand for specific skills and certifications across various roles.
 
@@ -38,7 +38,7 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 ### 2. Video Game Industry Trends
 
-![Video Game Trends Dashboard](./dashboard/gamesovertime.png)
+![Video Game Trends Dashboard](./Project%202/dashboard/gamesovertime.png)
 
 **Description:** A comprehensive exploration into the evolution of video games from 1980 to 2023, focusing on release dates, user reviews, and game teams.
 
@@ -53,7 +53,7 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 ### 3. Sales Performance Insights
 
-![Query Visualizations](./images)
+![Query Visualizations](./Project%203/images)
 
 **Description:** A meticulous analysis of a sales dataset, aiming to extract insights that can guide business strategies, product placements, and customer relationship management.
 
