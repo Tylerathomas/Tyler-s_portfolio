@@ -1,20 +1,23 @@
-# Project 1: Indeed Data Analysis
+# Indeed Data Analysis
 
 ## Overview
 
-In this portfolio entry, I showcase a recent project where I utilized data from Indeed to create insightful visualizations displaying the prevalence of specific skills and certifications across various job roles.
+In this project, I leveraged data from Indeed to craft visual insights, highlighting the prominence of specific skills and certifications across job roles, tailored for data and business analysis positions.
 
 ## Contents
 
 - [Code](./code)
-  - [Code used to clean](./code/cleaned_file_code.py)
-  - [Fuzzywuzzy matching code](./code/fuzzywuzzy_indeed_matching.py)
+  - [Data Cleaning](./code/cleaned_file_code.py)
+  - [Data Matching using FuzzyWuzzy](./code/fuzzywuzzy_indeed_matching.py)
 - [Data](./data)
-  - [Cleaned Data](./data/cleaned_data.csv)
-  - [Final Certifications and Skills](./data/final_certifications_skills.csv)
-- [Dashboard](./dashboard)
-  - [Dashboard](./images/Indeed_Analysis_Dashboard.png)
+  - [Processed Data](./data/cleaned_data.csv)
+  - [Skills & Certifications](./data/final_certifications_skills.csv)
+- [Visual Insights](./dashboard)
+  - [Analysis Dashboard](./images/Indeed_Analysis_Dashboard.png)
 
+## Project Insights
+
+This project showcases my proficiency in data extraction, cleansing, and visualization, emphasizing skills crucial for data and business analysis roles. The analysis dives deep into job listings, extracting key skills and certifications, and presents them in an easily digestible format.
 
 ## Project Description
 
