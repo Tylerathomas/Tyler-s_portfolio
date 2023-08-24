@@ -34,21 +34,27 @@ Google Colab was chosen as the primary platform due to its readability and user-
 1. **Annual Sales Trend**:
    - Sales witnessed a significant surge of approximately $1 million from 2003 to 2004.
    - However, 2005 observed a dip, which can be attributed to the dataset only containing records up to May 2005.
+![Query1](./images/query1.png)
 
 2. **Top Customers**:
    - Euro Shopping Channel and Mini Gifts Distributors Ltd. emerged as the top contributors to the company's revenue, indicating potential key accounts.
+![Query2](./images/query2.png)
 
 3. **Order Profitability**:
    - The average sale price per order was analyzed to determine the profitability of each transaction. This metric can guide pricing and discounting strategies.
+![Query3](./images/query3.png)
 
 4. **Monthly Sales Dynamics**:
    - A month-wise breakdown of sales was conducted to identify seasonality and monthly sales patterns, crucial for inventory and marketing planning.
+![Query4](./images/query4.png)
 
 5. **Product Line Performance**:
    - Classic Cars emerged as the most lucrative product line, followed by Vintage Cars and Motorcycles. Such insights can inform product stocking and promotional strategies.
+![Query5](./images/query5.png)
 
 6. **Order Volume Analysis**:
    - 2004 was identified as the year with the highest number of orders, suggesting a potential peak in market demand or successful marketing campaigns during that period.
+![Query6](./images/query6.png)
 
 ## Technical Implementation
 The analysis was executed using Python within the Google Colab environment. Pandas was employed for data manipulation, while SQLite facilitated the querying process. The dataset, post-cleaning, was loaded into an SQLite in-memory database, and a series of SQL queries were executed to derive the aforementioned insights.
