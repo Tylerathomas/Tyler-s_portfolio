@@ -13,7 +13,7 @@ In this project, I leveraged data from Indeed to craft visual insights, highligh
   - [Processed Data](./data/cleaned_data.csv)
   - [Skills & Certifications](./data/final_certifications_skills.csv)
 - [Visual Insights](./dashboard)
-  - [Analysis Dashboard](./images/Indeed_Analysis_Dashboard.png)
+  - [Analysis Dashboard](./dashboard/Indeed_Analysis_Dashboard.png)
 
 ## Project Insights
 
@@ -35,7 +35,7 @@ This project served as a learning crucible, endowing me with invaluable insights
 
 ## Visualizations
 
-![Dashboard](./images/Indeed_Analysis_Dashboard.png)
+![Dashboard](./dashboard/Indeed_Analysis_Dashboard.png)
 
 ## Conclusion
 
