@@ -2,17 +2,21 @@
 
 ## Overview
 
-This project involves the analysis of trending video games from 1980 to 2023, focusing on fields such as release date, user review rating, and game teams. The dataset was sourced from Backloggd, a video game collection website with social elements that enriches your gaming profile. The dataset reveals various statistics about the games.
+This analysis dives into video game trends from 1980 to 2023, emphasizing data-driven insights crucial for business decisions in the gaming industry.
 
 ## Contents
 
 - [Code](./code)
-  - [Cleaning Code](./code/gamesovertime_code.py)
+  - [Data Cleaning](./code/gamesovertime_code.py)
 - [Data](./data)
-  - [Cleaned Data](./data/cleaned_gamesovertime.csv)
-  - [Base data](./data/gamesovertime_base.csv)
-- [Dashboard](./dashboard)
-  - [Dashboard](./dashboard/gamesovertime.pdf)
+  - [Processed Data](./data/cleaned_gamesovertime.csv)
+  - [Original Dataset](./data/gamesovertime_base.csv)
+- [Visual Insights](./dashboard)
+  - [Analysis Dashboard](./dashboard/gamesovertime.pdf)
+
+## Project Insights
+
+The dataset provides a comprehensive view of video game trends over four decades. By leveraging data analysis techniques, I've extracted business-critical insights, emphasizing the importance of data in decision-making processes.
 
 ## Project Description
 
@@ -44,6 +48,8 @@ After data cleaning, the dataset was loaded into Excel, and columns like 'Genre'
 - Identifying the highest-rated games and top-performing teams.
 - Exploring the average rating of games per year to identify trends.
 - Examining game releases per month and the contributions of different companies.
+
+![Dashboard](./dashboard/gamesovertime.pdf)
 
 ## Conclusion
 
