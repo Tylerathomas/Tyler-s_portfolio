@@ -22,7 +22,7 @@ This dataset encompasses video games spanning over four decades, featuring key a
 
 ### Data Extraction
 
-The project began by extracting data from Backloggd, which houses information about games released between 1980 and 2023. Essential fields like 'Release Date', 'User Review Rating', and 'Game Teams' were collected. Data from. https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023
+The project began by extracting data from Backloggd, which houses information about games released between 1980 and 2023. Essential fields like 'Release Date', 'User Review Rating', and 'Game Teams' were collected. Data from [Kaggle](https://www.kaggle.com/datasets/arnabchaki/popular-video-games-1980-2023).
 
 ### Data Cleaning
 
