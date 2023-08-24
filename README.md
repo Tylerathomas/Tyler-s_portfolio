@@ -58,23 +58,18 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 **Selected Insights Gained (from multiple queries performed):**
 
 - Detected a significant surge in sales from 2003 to 2004.
-  [![Annual Sales Trend](./Project%203/images/query1_thumbnail.png)](./Project%203/images/query1.png)
+  [![Annual Sales Trend](./Project%203/images/query1.png)](./Project%203/images/query1.png)
 
 - Euro Shopping Channel and Mini Gifts Distributors Ltd. emerged as top revenue contributors.
-  [![Top Customers](./Project%203/images/query2_thumbnail.png)](./Project%203/images/query2.png)
+  [![Top Customers](./Project%203/images/query2.png)](./Project%203/images/query2.png)
 
 - Classic Cars were identified as the most lucrative product line.
-  [![Product Line Performance](./Project%203/images/query5_thumbnail.png)](./Project%203/images/query5.png)
-
-- ![Thumbnail for Query 1](./Project%203/images/query1.png) [Annual Sales Trend](./Project%203/images/query1.png): Detected a significant surge in sales from 2003 to 2004.
-  
-- ![Thumbnail for Query 2](./Project%203/images/query2.png) [Top Customers](./Project%203/images/query2.png): Euro Shopping Channel and Mini Gifts Distributors Ltd. emerged as top revenue contributors.
-  
-- ![Thumbnail for Query 5](./Project%203/images/query5.png) [Product Line Performance](./Project%203/images/query5.png): Classic Cars were identified as the most lucrative product line.
+  [![Product Line Performance](./Project%203/images/query5.png)](./Project%203/images/query5.png)
 
 These are just a few insights from the comprehensive analysis performed. For a detailed exploration and more insights, click below.
 
 [Details & Code](./Project%203/)
+
 
 
 ---
