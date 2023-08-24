@@ -42,14 +42,14 @@ A comprehensive data cleaning process was conducted to ensure data readiness for
 
 ### Visualization
 
+![Dashboard](./dashboard/gamesovertime.pdf)
+
 After data cleaning, the dataset was loaded into Excel, and columns like 'Genre' and 'Team' were separated to enhance visualization. Subsequently, Power BI was employed to create a clear and intuitive dashboard. The dashboard focused on:
 
 - Analyzing the distribution of games per genre to identify dominant genres.
 - Identifying the highest-rated games and top-performing teams.
 - Exploring the average rating of games per year to identify trends.
 - Examining game releases per month and the contributions of different companies.
-
-![Dashboard](./dashboard/gamesovertime.pdf)
 
 ## Conclusion
 
