@@ -12,7 +12,7 @@ This analysis dives into video game trends from 1980 to 2023, emphasizing data-d
   - [Processed Data](./data/cleaned_gamesovertime.csv)
   - [Original Dataset](./data/gamesovertime_base.csv)
 - [Visual Insights](./dashboard)
-  - [Analysis Dashboard](./dashboard/gamesovertime.pdf)
+  - [Analysis Dashboard](./dashboard/gamesovertime.png)
 
 ## Project Insights
 
@@ -49,7 +49,7 @@ After data cleaning, the dataset was loaded into Excel, and columns like 'Genre'
 - Exploring the average rating of games per year to identify trends.
 - Examining game releases per month and the contributions of different companies.
 
-![Dashboard](./dashboard/gamesovertime.pdf)
+![Dashboard](./dashboard/gamesovertime.png)
 
 ## Conclusion
 
