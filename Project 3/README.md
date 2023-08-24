@@ -1,25 +1,25 @@
-# Project 3: Comprehensive Sales Analysis
+# Comprehensive Sales Analysis
 
 ## Objective
-Derive actionable business insights from a sample sales dataset sourced from [Kaggle](https://www.kaggle.com/datasets/kyanyoga/sample-sales-data).
+
+Extract and present actionable business insights from a sales dataset, emphasizing the role of data in driving business decisions.
 
 ## Contents
 
 - [Code](./code)
-  - [Cleaning Code](./code/sales_data_clean_code.py)
-  - [Transforming Code](./code/sales_data_clean_transformed_code.py)
-  - [Analaysis Code](./code/salesanalysiscode.ipynb)
+  - [Data Cleaning](./code/sales_data_clean_code.py)
+  - [Data Transformation](./code/sales_data_clean_transformed_code.py)
+  - [Data Analysis](./code/salesanalysiscode.ipynb)
 - [Data](./data)
-  - [Clean Data](./data/sales_data_clean.csv)
+  - [Processed Data](./data/sales_data_clean.csv)
   - [Transformed Data](./data/sales_data_clean_transformed.csv)
-  - [Original Kaggle Data](./data/sales_data_sample.csv)
-- [Images](./images)
-  - [Query1](./images/query1.png)
-  - [Query2](./images/query2.png)
-  - [Query3](./images/query3.png)
-  - [Query4](./images/query4.png)
-  - [Query5](./images/query5.png)
-  - [Query6](./images/query6.png)
+  - [Original Dataset](./data/sales_data_sample.csv)
+- [Visual Insights](./images)
+  - [Query Visualizations](./images)
+
+## Data Insights
+
+The project showcases the importance of data in understanding sales trends, customer behavior, and product performance. By leveraging Python and SQL, I've extracted insights that can guide business strategies and decisions.
 
 ## Data Preparation
 - The dataset required initial preprocessing to ensure accuracy and relevance.
