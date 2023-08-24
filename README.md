@@ -53,16 +53,23 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 ### 3. Sales Performance Insights
 
-![Query Visualizations](./Project%203/images)
-
 **Description:** A meticulous analysis of a sales dataset, aiming to extract insights that can guide business strategies, product placements, and customer relationship management.
 
-**Insights Gained:**
+**Selected Insights Gained (from multiple queries performed):**
+
 - Detected a significant surge in sales from 2003 to 2004.
+  [![Annual Sales Trend](./Project%203/images/query1_thumbnail.png)](./Project%203/images/query1.png)
+
 - Euro Shopping Channel and Mini Gifts Distributors Ltd. emerged as top revenue contributors.
+  [![Top Customers](./Project%203/images/query2_thumbnail.png)](./Project%203/images/query2.png)
+
 - Classic Cars were identified as the most lucrative product line.
+  [![Product Line Performance](./Project%203/images/query5_thumbnail.png)](./Project%203/images/query5.png)
+
+These are just a few insights from the comprehensive analysis performed. For a detailed exploration and more insights, click below.
 
 [Details & Code](./Project%203/)
+
 
 ---
 
