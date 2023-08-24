@@ -1,65 +1,69 @@
 # Tyler's Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! This collection showcases my expertise in extracting, cleaning, and visualizing data to derive actionable insights. Each project reflects my dedication to data-driven decision-making, a crucial skill for any data analyst.
+Welcome to my data analysis portfolio! Here, I showcase my expertise in data-driven decision-making through various projects. Dive in to see the visualizations and insights I've derived from diverse datasets.
+
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tthomas0/)
 
 ---
 
 ## Table of Contents
 
-1. [Indeed Job Market Analysis](#indeed-job-market-analysis)
-2. [Video Game Industry Trends](#video-game-industry-trends)
-3. [Sales Performance Insights](#sales-performance-insights)
+- [Overview](#overview)
+- [Indeed Job Market Analysis](#1-indeed-job-market-analysis)
+- [Video Game Industry Trends](#2-video-game-industry-trends)
+- [Sales Performance Insights](#3-sales-performance-insights)
 
 ---
 
-## Indeed Job Market Analysis
+## Overview
 
-### Overview
-
-In this project, I've analyzed job listings from Indeed to understand the demand for specific skills and certifications across various roles, providing valuable insights for job seekers and recruiters alike.
-
-- [Code](./Project%201/code)
-  - [Data Cleaning](./Project%201/code/cleaned_files_code.py)
-- [Data](./Project%201/data)
-  - [Cleaned Data](./Project%201/data/cleaned_data.csv)
-  - [Final Certifications and Skills](./Project%201/data/final_certifications_skills.csv)
-- [Dashboard](./Project%201/dashboard)
-  - [Visualization](./Project%201/images/Indeed_Analysis_Dashboard.png)
-
-[Read more about the Indeed Job Market Analysis project](#indeed-job-market-analysis)
+This portfolio encapsulates my journey in data and business analysis, highlighting my ability to transform raw data into actionable insights. Each project is a testament to my analytical skills, attention to detail, and passion for storytelling through data.
 
 ---
 
-## Video Game Industry Trends
+### 1. Indeed Job Market Analysis
 
-### Overview
+![Indeed Analysis Dashboard](./dashboard/Indeed_Analysis_Dashboard.png)
 
-This project offers a deep dive into the evolution of video games from 1980 to 2023. By analyzing release dates, user reviews, and game teams, I've uncovered patterns that can guide game developers and marketers in their future endeavors.
+**Description:** An in-depth analysis of job listings from Indeed, aiming to understand the demand for specific skills and certifications across various roles.
 
-- [Code](./Project%202/code)
-  - [Data Cleaning](./Project%202/code/gamesovertime_code.py)
-- [Data](./Project%202/data)
-  - [Cleaned Data](./Project%202/data/cleaned_gamesovertime.csv)
-  - [Base Data](./Project%202/data/gamesovertime_base.csv)
-- [Dashboard](./Project%202/dashboard)
-  - [Visualization](./Project%202/dashboard/gamesovertime.pdf)
+**Insights Gained:**
+- Identified the most sought-after skills across different job roles.
+- Data documentation emerged as a foundational skill across all postings.
+- Uncovered the preference of companies for contract, full-time, and unspecified positions.
 
-[Read more about the Video Game Industry Trends project](#video-game-industry-trends)
+[Details & Code](./Project%201/)
 
 ---
 
-## Sales Performance Insights
+### 2. Video Game Industry Trends
 
-### Objective
+![Video Game Trends Dashboard](./dashboard/gamesovertime.png)
 
-In this analysis, I've delved into a sales dataset to extract insights that can guide business strategies, product placements, and customer relationship management.
+**Description:** A comprehensive exploration into the evolution of video games from 1980 to 2023, focusing on release dates, user reviews, and game teams.
 
-- Data Preparation: Streamlined and formatted the dataset for accurate analysis.
-- Analysis Platform: Google Colab, chosen for its intuitive interface and powerful analytical capabilities.
-- Key Findings: Insights into sales trends, customer behavior, product performance, and more.
+**Insights Gained:**
+- Adventure games dominate the gaming landscape in terms of quantity.
+- Identified high-rated games like "Outer Wilds" and "Sekiro: Shadows Die Twice".
+- Uncovered patterns in game releases, with a concentration towards the end of the year.
 
-[Read more about the Sales Performance Insights project](#sales-performance-insights)
+[Details & Code](./Project%202/)
 
 ---
 
-Thank you for exploring my portfolio. As a dedicated data analyst, I'm always eager to tackle new challenges and uncover insights from raw data. If you have any questions or would like to discuss any of the projects in detail, please feel free to reach out.
+### 3. Sales Performance Insights
+
+![Query Visualizations](./images)
+
+**Description:** A meticulous analysis of a sales dataset, aiming to extract insights that can guide business strategies, product placements, and customer relationship management.
+
+**Insights Gained:**
+- Detected a significant surge in sales from 2003 to 2004.
+- Euro Shopping Channel and Mini Gifts Distributors Ltd. emerged as top revenue contributors.
+- Classic Cars were identified as the most lucrative product line.
+
+[Details & Code](./Project%203/)
+
+---
+
+Thank you for exploring my portfolio. If you'd like to discuss any projects or collaborate, please feel free to reach out.
