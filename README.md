@@ -1,6 +1,6 @@
 # Tyler's Data Analysis Portfolio
 
-Welcome to my data analysis portfolio! Here, I showcase my expertise in data-driven decision-making through various projects. Dive in to see the visualizations and insights I've derived from diverse datasets.
+Welcome to my data analysis portfolio! Here, I showcase my expertise in data-driven decision-making through various projects.
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/tthomas0/)
 
