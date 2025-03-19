@@ -55,7 +55,7 @@ After data cleaning, the dataset was loaded into Excel, and columns like 'Genre'
 
 The visualization efforts yielded valuable insights:
 
-- Adventure games dominate the gaming landscape in terms of quantity.
+- Adventure games dominate the gaming landscape in terms of quantities.
 - Notable high-rated games like "Outer Wilds" and "Sekiro: Shadows Die Twice" were identified.
 - Prominent companies such as Bay 12 Games and Kitfox Games were highlighted.
 - The average rating per year exhibited a downward trend in the past three years.
