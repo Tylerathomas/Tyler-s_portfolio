@@ -55,7 +55,7 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 **Description:** A meticulous analysis of a sales dataset, aiming to extract insights that can guide business strategies, product placements, and customer relationship management.
 
-**Selected Insights Gained (from multiple queries performed):**
+**Selected Insight Gained (from multiple queries performed):**
 
 - Detected a significant surge in sales from 2003 to 2004.
   
