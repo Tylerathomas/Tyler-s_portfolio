@@ -31,7 +31,7 @@ Organizing the extracted keywords and certifications into coherent fields laid t
 
 A pivotal visualization was the elucidation of job type distribution through a pie chart, revealing the predilections of companies for contract, full-time, and unspecified positions across different roles. Additionally, certifications associated with each job category were artfully depicted, with a focal point in the realm of Information Security Analyst.
 
-This project served as a learning crucible, endowing me with invaluable insights into the core competencies requisite for success in the realm of data analysis. The challenges faced throughout the journey, from untangling Indeed's data intricacies to optimizing keyword and certification extraction, galvanized the development of effective and innovative solutions.
+This project served as a learning crucible, endowing me with invaluable insights into the core competencies requisite for success in the realm of data analysis. The challenges faced throughout the journey, from untangling Indeed's data intricacies to optimizing keyword and certification extraction, galvanized the development of effective and innovative solution.
 
 ## Visualizations
 
