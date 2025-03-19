@@ -51,7 +51,7 @@ This portfolio encapsulates my journey in data and business analysis, highlighti
 
 ---
 
-### 3. Sales Performance Insights
+### 3. Marketing Channel Analytics Implementation
 
 **Description:** A meticulous analysis of a sales dataset, aiming to extract insights that can guide business strategies, product placements, and customer relationship management.
 
