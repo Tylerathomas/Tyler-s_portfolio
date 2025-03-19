@@ -28,7 +28,7 @@ Through rigorous data analysis, this project unveils the nuances of sales trends
 
 ## Analysis Platform
 
-Google Colab, renowned for its intuitive interface and robust analytical capabilities, was the platform of choice. The dataset was integrated into an SQLite database within the Colab environment, ensuring seamless data querying and manipulation.
+Google Colab, renowned for its intuitive interface and robust analytical capabilities, was the platform of choice. The dataset was integrated into an SQLite database within the Colab environment, ensuring seamless data querying and manipulations.
 
 ## Key Findings
 
